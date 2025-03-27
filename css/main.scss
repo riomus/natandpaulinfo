@@ -46,7 +46,7 @@ $on-laptop:        800px;
 
 // Custom
 h1, h2, h3, h4, h5, h6 {
-    color: #90AB76 !important;
+    color: #444444 !important;
     font-family: $header-font-family !important;
 }
 
@@ -61,6 +61,5 @@ a.btn:visited {
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
 ;

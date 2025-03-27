@@ -1,13 +1,9 @@
 # Meta
-title: Coughlin Wedding
-email: kevintcoughlin+wedding@gmail.com
-description: Site for the wedding of Alison Ferro & Kevin Coughlin
-baseurl: ""
-url: "https://www.ferrocoughlin.com"
-twitter_username: kevintcoughlin
-github_username:  kevintcoughlin
+title: Natalie and Paul wedding
+description: Site for the wedding of Natalie and Paul
+baseurl: "https://natandpaul.info"
+url: "https://natandpaul.info"
 permalink: pretty
-fb_app_id: "413937465645543"
 
 # Build settings
 markdown: kramdown
