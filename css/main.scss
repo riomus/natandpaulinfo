@@ -57,6 +57,9 @@ h1, h2, h3, h4, h5, h6 {
 a.btn:visited {
     color: #fff;
 }
+blockquote{
+  border-left: none  !important;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
